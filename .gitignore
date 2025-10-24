@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+*.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Docker
+*.tar
+*.log
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Joblib model (optional: if you want to exclude model files from Git)
+# model/heart_model.joblib
