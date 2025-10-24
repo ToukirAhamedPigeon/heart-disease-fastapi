@@ -13,3 +13,7 @@
 ```bash
 docker-compose build
 docker-compose up
+
+
+Live Deployed at Render Url: https://heart-disease-fastapi-7a2f.onrender.com/
+Live Deployed Docs at Render Url: https://heart-disease-fastapi-7a2f.onrender.com/docs
